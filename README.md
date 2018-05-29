@@ -66,6 +66,7 @@ SharedPreferences 对象中提供了一系列的 get 方法用于对存储的数
         });
 ```
 最终运行结果：
+
 ![restore_data](/img/restoredata.png "restore_data")
 
 [布局文件](/app/src/main/res/layout/activity_main.xml)自行查看代码。
